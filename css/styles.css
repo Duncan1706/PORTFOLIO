@@ -23,3 +23,10 @@ ul {
   color: maroon;
   font-weight: bold;
 }
+.test-box {
+  border: 2px solid blue;
+  padding: 1px;
+  margin: 0.5px;
+  width: 120px;
+  background-color: orange;
+}
