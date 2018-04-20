@@ -12,6 +12,14 @@ h3 {
     text-align:left;
 }
 p {
-  color: Black;
-
+  color: Green;
+  font-weight: bolder;
+}
+ul {
+  color: white;
+  font-weight: bolder;
+}
+.important {
+  color: maroon;
+  font-weight: bold;
 }
