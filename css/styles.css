@@ -35,3 +35,6 @@ ul {
   width: 350px;
   float: left;
 }
+.background p {
+  background-color: red;
+}
