@@ -20,7 +20,7 @@ ul {
   font-weight: bolder;
 }
 .important {
-  color: maroon;
+  color: orange;
   font-weight: bold;
 }
 .test-box {
@@ -29,7 +29,7 @@ ul {
   margin: 0.5px;
   width: 120px;
   background-color: orange;
-  
+
 }
 .column {
   width: 350px;
