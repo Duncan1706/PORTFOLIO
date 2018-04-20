@@ -12,7 +12,7 @@ h3 {
     text-align:left;
 }
 p {
-  color: Green;
+  color: #58D68D;
   font-weight: bolder;
 }
 ul {
@@ -20,7 +20,7 @@ ul {
   font-weight: bolder;
 }
 .important {
-  color: orange;
+  color: black;
   font-weight: bold;
 }
 .test-box {
