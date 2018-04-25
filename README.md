@@ -16,7 +16,7 @@ Technologies Used
 {There are no known issues as far as the project is concerned so far.}
 
 Support and contact details
-{In case of any issues, ideas or concerns please feel free to contact me via dmutahi91@gmail.com}
+{Link to my live site is https://duncan1706.github.io/PORTFOLIO/. In case of any issues, ideas or concerns please feel free to contact me via dmutahi91@gmail.com}
 
 License
 *{MIT License
